@@ -79,4 +79,15 @@ class GildedRoseTest extends TestCase
         $this->assertEquals(23, $items[1]->quality);
         $this->assertEquals(0, $items[2]->quality);
     }
+
+    /**
+     * testowanie dodanie nowego przedmiotu
+     */
+    public function testConjuredDegradeInQualityTwiceAsFastAsNormal()
+    {
+        $items = [new Item('Los Conjured banana', 10, 20)];
+        $gildedRose = new GildedRose($items);
+        $gildedRose->update_quality();
+        $this->assertEquals(18, $items[0]->quality);
+    }
 }
