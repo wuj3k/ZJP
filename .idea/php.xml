@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/kata/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/kata/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/kata/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/kata/vendor/composer" />
+      <path value="$PROJECT_DIR$/kata/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/kata/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/kata/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/kata/vendor/phpunit/php-token-stream" />
+      <path value="$PROJECT_DIR$/kata/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/kata/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/kata/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/kata/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/kata/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/kata/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/kata/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/kata/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/kata/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/kata/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/kata/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/kata/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/kata/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/kata/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/kata/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/kata/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/kata/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/kata/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/kata/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/kata/vendor/sebastian/diff" />
+    </include_path>
+  </component>
+  <component name="PhpUnit">
+    <phpunit_settings>
+      <PhpUnitSettings load_method="CUSTOM_LOADER" custom_loader_path="$PROJECT_DIR$/kata/vendor/autoload.php" />
+    </phpunit_settings>
+  </component>
+</project>
