@@ -30,6 +30,8 @@
       <path value="$PROJECT_DIR$/kata/vendor/phpdocumentor/reflection-common" />
       <path value="$PROJECT_DIR$/kata/vendor/sebastian/code-unit-reverse-lookup" />
       <path value="$PROJECT_DIR$/kata/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/kata/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/kata/vendor/phpmetrics/phpmetrics" />
     </include_path>
   </component>
   <component name="PhpUnit">

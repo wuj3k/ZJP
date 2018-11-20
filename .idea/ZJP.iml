@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/kata/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/kata/vendor/doctrine/instantiator" />
+      <excludeFolder url="file://$MODULE_DIR$/kata/vendor/myclabs/deep-copy" />
+      <excludeFolder url="file://$MODULE_DIR$/kata/vendor/nikic/php-parser" />
+      <excludeFolder url="file://$MODULE_DIR$/kata/vendor/phar-io/manifest" />
+      <excludeFolder url="file://$MODULE_DIR$/kata/vendor/phar-io/version" />
+      <excludeFolder url="file://$MODULE_DIR$/kata/vendor/phpdocumentor/reflection-common" />
+      <excludeFolder url="file://$MODULE_DIR$/kata/vendor/phpdocumentor/reflection-docblock" />
+      <excludeFolder url="file://$MODULE_DIR$/kata/vendor/phpdocumentor/type-resolver" />
+      <excludeFolder url="file://$MODULE_DIR$/kata/vendor/phpmetrics/phpmetrics" />
+      <excludeFolder url="file://$MODULE_DIR$/kata/vendor/phpspec/prophecy" />
+      <excludeFolder url="file://$MODULE_DIR$/kata/vendor/phpunit/php-code-coverage" />
+      <excludeFolder url="file://$MODULE_DIR$/kata/vendor/phpunit/php-file-iterator" />
+      <excludeFolder url="file://$MODULE_DIR$/kata/vendor/phpunit/php-text-template" />
+      <excludeFolder url="file://$MODULE_DIR$/kata/vendor/phpunit/php-timer" />
+      <excludeFolder url="file://$MODULE_DIR$/kata/vendor/phpunit/php-token-stream" />
+      <excludeFolder url="file://$MODULE_DIR$/kata/vendor/phpunit/phpunit" />
+      <excludeFolder url="file://$MODULE_DIR$/kata/vendor/sebastian/code-unit-reverse-lookup" />
+      <excludeFolder url="file://$MODULE_DIR$/kata/vendor/sebastian/comparator" />
+      <excludeFolder url="file://$MODULE_DIR$/kata/vendor/sebastian/diff" />
+      <excludeFolder url="file://$MODULE_DIR$/kata/vendor/sebastian/environment" />
+      <excludeFolder url="file://$MODULE_DIR$/kata/vendor/sebastian/exporter" />
+      <excludeFolder url="file://$MODULE_DIR$/kata/vendor/sebastian/global-state" />
+      <excludeFolder url="file://$MODULE_DIR$/kata/vendor/sebastian/object-enumerator" />
+      <excludeFolder url="file://$MODULE_DIR$/kata/vendor/sebastian/object-reflector" />
+      <excludeFolder url="file://$MODULE_DIR$/kata/vendor/sebastian/recursion-context" />
+      <excludeFolder url="file://$MODULE_DIR$/kata/vendor/sebastian/resource-operations" />
+      <excludeFolder url="file://$MODULE_DIR$/kata/vendor/sebastian/version" />
+      <excludeFolder url="file://$MODULE_DIR$/kata/vendor/theseer/tokenizer" />
+      <excludeFolder url="file://$MODULE_DIR$/kata/vendor/webmozart/assert" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
